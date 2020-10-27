@@ -78,14 +78,14 @@ span{
 
 .top-cloud{
     position: absolute;
-    right: 26%;
-    top:12%;
+    right: 24%;
+    top:10%;
 }
 
 .bottom-cloud{
     position: absolute;
-    left:26%;
-    bottom: 42%;
+    left:24%;
+    bottom: 40%;
 }
 
 .mountain{
